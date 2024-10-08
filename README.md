@@ -1,11 +1,44 @@
-![](https://github-readme-stats.vercel.app/api?username=Andrelem&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Andrelem&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrelem&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+  • .NET Developer 
+</h3>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align='center'>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrehenriquelopes/) 
----
-[![](https://visitcount.itsvg.in/api?id=Andrelem&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andrelem&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrelem&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div><br />
+
+## &nbsp;My Stack
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,git,github&theme=dark" />
+
+#
+
+  <p><strong>Entre em contato comigo</strong></p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/andrehenriquelopes/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+</div>
+
+#
+
+<h3>Contact Me</h3>
+<div align="left">
+<p>
+<a href="mailto:henriqueleme76@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/andrehenriquelopes/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+</div>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
