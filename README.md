@@ -1,5 +1,5 @@
 <h3 align="center">
-  • .NET Developer 
+  .NET Developer 
 </h3>
 
 <div align='center'>
